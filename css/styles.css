@@ -1,0 +1,6 @@
+/* Custom Styles */
+
+.main-content {
+    height: 1000px; /* Make the section really tall */
+    background-color: #f8f8f8; /* Distinguish it from the rest of the content */
+}
